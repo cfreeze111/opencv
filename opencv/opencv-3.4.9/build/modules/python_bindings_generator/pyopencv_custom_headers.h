@@ -1,0 +1,12 @@
+//user-defined headers
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/core/misc/python/pyopencv_async.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/core/misc/python/pyopencv_umat.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/surface_matching/misc/python/pyopencv_ppf_match_3d.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/line_descriptor/misc/python/pyopencv_LSDDetector.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/rgbd/misc/python/pyopencv_linemod.hpp"
+#include "/home/cfreeze/opencv/opencv-3.4.9/modules/stitching/misc/python/pyopencv_stitching.hpp"

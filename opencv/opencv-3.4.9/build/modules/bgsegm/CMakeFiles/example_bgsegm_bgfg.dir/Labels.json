@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/bgsegm/samples/bgfg.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_bgsegm",
+			"Sample"
+		],
+		"name" : "example_bgsegm_bgfg"
+	}
+}

@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_rgbd
+ Sample
+# Source files and their labels
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/rgbd/samples/linemod.cpp
+ Extra
+ opencv_rgbd
+ Sample

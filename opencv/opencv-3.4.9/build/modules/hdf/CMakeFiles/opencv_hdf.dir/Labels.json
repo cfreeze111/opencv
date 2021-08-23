@@ -1,0 +1,57 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/include/opencv2/hdf.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/include/opencv2/hdf/hdf5.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/src/hdf5.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/build/cvconfig.h"
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_hdf",
+			"Module"
+		],
+		"name" : "opencv_hdf"
+	}
+}

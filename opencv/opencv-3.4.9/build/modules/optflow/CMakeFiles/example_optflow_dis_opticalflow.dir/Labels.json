@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/optflow/samples/dis_opticalflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_optflow",
+			"Sample"
+		],
+		"name" : "example_optflow_dis_opticalflow"
+	}
+}

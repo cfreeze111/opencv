@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/rgbd/samples/linemod.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_rgbd",
+			"Sample"
+		],
+		"name" : "example_rgbd_linemod"
+	}
+}

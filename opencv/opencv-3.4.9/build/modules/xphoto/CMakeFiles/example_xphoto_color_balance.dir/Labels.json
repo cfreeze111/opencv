@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/xphoto/samples/color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xphoto",
+			"Sample"
+		],
+		"name" : "example_xphoto_color_balance"
+	}
+}

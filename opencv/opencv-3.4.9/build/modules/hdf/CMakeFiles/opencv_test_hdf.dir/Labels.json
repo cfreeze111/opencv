@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_hdf5.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_hdf",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_hdf"
+	}
+}

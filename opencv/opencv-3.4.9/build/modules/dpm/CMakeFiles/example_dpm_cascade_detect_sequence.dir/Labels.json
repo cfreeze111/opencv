@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/dpm/samples/cascade_detect_sequence.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dpm",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_dpm",
+			"Sample"
+		],
+		"name" : "example_dpm_cascade_detect_sequence"
+	}
+}

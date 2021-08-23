@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/aruco/samples/detect_board_charuco.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_aruco",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_aruco",
+			"Sample"
+		],
+		"name" : "example_aruco_detect_board_charuco"
+	}
+}

@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_face
+ Sample
+# Source files and their labels
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/face/samples/facerec_demo.cpp
+ Extra
+ opencv_face
+ Sample

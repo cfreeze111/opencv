@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/tracking/samples/goturnTracker.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_tracking",
+			"Sample"
+		],
+		"name" : "example_tracking_goturnTracker"
+	}
+}

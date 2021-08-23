@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_ccalib
+ Sample
+# Source files and their labels
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/ccalib/samples/omni_stereo_calibration.cpp
+ Extra
+ opencv_ccalib
+ Sample

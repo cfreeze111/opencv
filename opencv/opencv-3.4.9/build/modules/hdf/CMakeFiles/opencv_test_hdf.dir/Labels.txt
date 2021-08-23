@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_hdf
+ AccuracyTest
+# Source files and their labels
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_hdf5.cpp
+ Extra
+ opencv_hdf
+ AccuracyTest
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_main.cpp
+ Extra
+ opencv_hdf
+ AccuracyTest
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/hdf/test/test_precomp.hpp
+ Extra
+ opencv_hdf
+ AccuracyTest

@@ -1,0 +1,29 @@
+#use_cache "/home/cfreeze/opencv/opencv-3.4.9/.cache"
+#do_unpack "ippicv_2019_lnx_intel64_general_20180723.tgz" "c0bd78adb4156bbf552c1dfe90599607" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/32e315a5b106a7b89dbed51c28f8120a48b368b4/ippicv/ippicv_2019_lnx_intel64_general_20180723.tgz" "/home/cfreeze/opencv/opencv-3.4.9/build/3rdparty/ippicv"
+#check_md5 "/home/cfreeze/opencv/opencv-3.4.9/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz"
+#mismatch_md5 "/home/cfreeze/opencv/opencv-3.4.9/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz" "d41d8cd98f00b204e9800998ecf8427e"
+#delete "/home/cfreeze/opencv/opencv-3.4.9/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz"
+#cmake_download "/home/cfreeze/opencv/opencv-3.4.9/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/32e315a5b106a7b89dbed51c28f8120a48b368b4/ippicv/ippicv_2019_lnx_intel64_general_20180723.tgz"
+#try 1
+#   Trying 0.0.0.0...
+# TCP_NODELAY set
+# connect to 0.0.0.0 port 443 failed: Connection refused
+#   Trying ::...
+# TCP_NODELAY set
+# connect to :: port 443 failed: Connection refused
+# Failed to connect to raw.githubusercontent.com port 443: Connection refused
+# Closing connection 0
+# 
+
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_bgm_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_bgm_bi_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_bgm_hd_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_binboost_064_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_binboost_128_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_binboost_256_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_BOOSTDESC_HASH_downloads_xfeatures2d_boostdesc_lbgm_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_VGG_HASH_downloads_xfeatures2d_vgg_generated_48_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_VGG_HASH_downloads_xfeatures2d_vgg_generated_64_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_VGG_HASH_downloads_xfeatures2d_vgg_generated_80_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_XFEATURES2D_VGG_HASH_downloads_xfeatures2d_vgg_generated_120_i"
+#match_hash_in_cmake_cache "OCV_DOWNLOAD_DATA_HASH_share_OpenCV_testdata_cv_face_face_landmark_model_dat"

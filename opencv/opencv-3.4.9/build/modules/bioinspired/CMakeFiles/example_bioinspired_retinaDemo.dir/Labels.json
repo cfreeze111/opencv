@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/bioinspired/samples/retinaDemo.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bioinspired",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_bioinspired",
+			"Sample"
+		],
+		"name" : "example_bioinspired_retinaDemo"
+	}
+}

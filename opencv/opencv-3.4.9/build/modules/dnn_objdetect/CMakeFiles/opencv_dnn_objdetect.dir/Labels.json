@@ -1,0 +1,48 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/dnn_objdetect/include/opencv2/core_detect.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/dnn_objdetect/src/core_detect.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/dnn_objdetect/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/build/cvconfig.h"
+		},
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_dnn_objdetect",
+			"Module"
+		],
+		"name" : "opencv_dnn_objdetect"
+	}
+}

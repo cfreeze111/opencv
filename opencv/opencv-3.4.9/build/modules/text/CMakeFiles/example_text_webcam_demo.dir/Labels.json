@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/text/samples/webcam_demo.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_text",
+			"Sample"
+		],
+		"name" : "example_text_webcam_demo"
+	}
+}

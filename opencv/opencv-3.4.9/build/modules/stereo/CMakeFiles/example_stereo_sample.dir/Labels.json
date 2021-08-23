@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/stereo/samples/sample.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_stereo",
+			"Sample"
+		],
+		"name" : "example_stereo_sample"
+	}
+}

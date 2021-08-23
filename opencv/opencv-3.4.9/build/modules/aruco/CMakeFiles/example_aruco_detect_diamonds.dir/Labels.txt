@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_aruco
+ Sample
+# Source files and their labels
+/home/cfreeze/opencv/opencv-3.4.9/opencv_contrib-3.4.9/modules/aruco/samples/detect_diamonds.cpp
+ Extra
+ opencv_aruco
+ Sample
