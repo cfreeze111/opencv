@@ -1,13 +1,5 @@
 ####不支持修改文件夹名且只可将放在home目录下，后续如果我长进了，可能会改进####
-####新手教程，大佬勿喷####
-
-
-如果不想在home目录下编译:
-1.解压文件后进入opencv文件夹，右击选择 open in terminal
-2.打开install.sh文件（gedit install.sh）
-3.ctrl+f 输入${array[2]}
-4.将该路径改为你心仪的路径
-
+####新手教程####
 
 
 第一步：换源（如为国内源请跳过）
@@ -32,19 +24,12 @@ gedit /etc/apt/sources.list
 第二步：将文件夹解压（右击Extract 到你！！home！！目录）下
 
 1）右击文件install.sh选择属性（Properties），Execute:【√】
-
 2）解压后进入opencv文件夹
 	右击选择 open in terminal
-3）依次输入以下命令
-sudo su 并输入root密码。
-	    如果报错（原因不是输入错误密码的话），原因可能是你还没有设置过root密码，输入命令
-	        sudo passwd root
-		然后输入用户密码重置root密码
-	    还不行，你就自己baidu Google一下，就可能解决啦～
-
-4）最后：输入./test.sh
-5）你不需要在电脑前等待，解放你的双手和大脑追求自由吧，直到输出successful，就successfully啦～
-6）ctrl+D 退出 root
+3）输入密码。
+4）最后输入./install.sh
+5）你不需要在电脑前等待
+6）大概二十分钟左右就可以了。
 
 
 
